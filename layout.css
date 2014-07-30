@@ -1,0 +1,40 @@
+#right
+{
+    float:right;
+    width:300px;
+}
+
+.fancytable
+{
+    border:1px solid #cccccc;
+    border-collapse:collapse;
+    td
+    {
+        border:1px solid #cccccc; 
+        color:#555555;
+        text-align:center;
+        line-height:28px;
+    }
+}
+
+.datarowodd
+{
+    background-color:#ffffff;
+    height: 30px;
+}
+
+.dataroweven
+{
+    background-color:#efefef;
+    height: 30px;
+}
+
+.datarowodd td
+{
+    background-color:#ffffff;
+}
+
+.dataroweven td
+{
+    background-color:#efefef;
+}
